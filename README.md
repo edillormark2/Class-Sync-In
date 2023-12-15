@@ -1,8 +1,8 @@
 ## Class Sync In Web Application (Manage Time in & Time out)
 
 <div align="center">
-    <img width="720" src=".resources/class-sync-login.png">
-    <img width="720" src=".resources/class-sync-dashboard.png">
+    <img width="1024" src=".resources/class-sync-login.png">
+    <img width="1024" src=".resources/class-sync-dashboard.png">
 </div>
 
 # Class Sync In
